@@ -1,2 +1,2 @@
-# jogo_meoria
-Jogo da memória usando html,css e javaScript
+# jogo_memoria
+Jogo da memória ultizando html, css e JavaScript
